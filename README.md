@@ -88,18 +88,6 @@ To refresh the upstream space-weather workbook (`Real_Space_Weather_Oct_Nov_2026
 
 ---
 
-## Citation
-
-If you use this dataset or code in your research, please cite:
-
-```bibtex
-@article{sarkar2026geigerweather,
-  title   = {Real-Time Monitoring of Background Radiation, Solar Irradiance Measurement and Weather Prediction},
-  author  = {Sarkar, Hritam and Sarkar, Tamal},
-  year    = {2026},
-  note    = {Supplementary data and code repository, University of North Bengal}
-}
-```
 
 ## Contact
 
