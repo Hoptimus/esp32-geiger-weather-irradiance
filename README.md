@@ -6,7 +6,6 @@ Supplementary datasets, analysis scripts, and machine learning notebooks for the
 > Hritam Sarkar¹ and Tamal Sarkar²\*  
 > ¹Department of Computer Science and Application, University of North Bengal, Siliguri, West Bengal, India, 734013  
 > ²High Energy and Cosmic Ray Research Centre (HECRRC), University of North Bengal, Siliguri, West Bengal, India, 734013  
-> \*Corresponding author: `tsarkar@nbu.ac.in`
 
 ---
 
