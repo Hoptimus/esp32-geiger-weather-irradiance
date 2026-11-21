@@ -87,8 +87,3 @@ To refresh the upstream space-weather workbook (`Real_Space_Weather_Oct_Nov_2026
 - **Solar Wind (Optional OMNIWeb):** King & Papitashvili (2005), [NASA/GSFC SPDF CDAWeb HAPI](https://cdaweb.gsfc.nasa.gov/hapi)
 
 ---
-
-
-## Contact
-
-For questions or additional data requests, contact **Tamal Sarkar** (`tsarkar@nbu.ac.in`).
